@@ -1,7 +1,6 @@
 let toggle = document.getElementById("toggle-button")
-let toggle_div = document.getElementById("toggle-div")
-
 let annually = false
+
 function changePrice(annual) {
     monthlyprice = [19.99, 24.99, 39.99]
     annualprice = [199.99, 249.99, 399.99]
