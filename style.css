@@ -165,7 +165,7 @@ body {
 @media screen and (max-width:700px) {
     .card-space {
         grid-template-columns: 1fr;
-        grid-row-gap:20px;
+        grid-row-gap:40px;
         width: 50vw;
         height:50vh;
         
